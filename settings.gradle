@@ -1,0 +1,3 @@
+rootProject.name = 'kodilla-byte-buddy-zad'
+include 'kodilla-agent-zad'
+
