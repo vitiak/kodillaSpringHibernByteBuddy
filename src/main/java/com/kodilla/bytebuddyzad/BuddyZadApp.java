@@ -11,6 +11,8 @@ import java.util.List;
 
 public class BuddyZadApp {
 
+// TODO ponizszy komentarz do wyrzucenia, zostawiam sobie tylko żeby udokumentować
+// sposób rozwiązania pierwszej części zadania KODILLA COMPANY
 /*    public static void main(String[] args) throws Exception {
         Class<?> dynamicUserClass = new ByteBuddy()
                 .subclass(User.class)
